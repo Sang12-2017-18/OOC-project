@@ -6,7 +6,7 @@
 
 /**
  *
- * @author shruthi
+ * @author Sangavai
  */
  // Java Program to create a text editor using java 
 import java.awt.*; 
